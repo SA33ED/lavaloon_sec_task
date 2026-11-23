@@ -1,0 +1,15 @@
+{
+  "confirm": "تأكيد",
+  "cancel": "إلغاء",
+  "noDataFound": "لا توجد بيانات",
+  "search": "بحث",
+  "selectTime": "اختر الوقت"  ,
+  "readMore": "اقرأ المزيد",
+  "readLess": "اقرأ أقل",
+  "uploadPhoto": "رفع صورة",
+  "camera": "كاميرا",
+  "gallery": "معرض",
+  "noInternetConnection": "لا يوجد اتصال بالإنترنت",
+  "pleaseCheckYourInternetConnectionAndTryAgain": "يرجى التحقق من اتصالك بالإنترنت وحاول مرة أخرى",
+  "tryAgain": "حاول مرة أخرى"
+}

@@ -1,0 +1,15 @@
+{
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "noDataFound": "No data found",
+  "search": "Search",
+  "selectTime": "Select Time",
+  "readMore": "Read More",
+  "readLess": "Read Less",
+  "uploadPhoto": "Upload Photo",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "noInternetConnection": "No internet connection",
+  "pleaseCheckYourInternetConnectionAndTryAgain": "Please check your internet connection and try again",
+  "tryAgain": "Try Again"
+}
